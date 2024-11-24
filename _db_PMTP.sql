@@ -68,7 +68,7 @@ GO
 
 INSERT INTO tbl_Personeller (Pers_Adi, Pers_Soyadi, Pers_DTarihi, Bolum_ID, Pers_Ise_Giris_Tarihi, Pers_Isten_Cikis_Tarihi, Pers_Adresi, Pers_Kenti, Pers_Ili, Pers_Il_Kodu, Pers_Maas, Pers_Komisyon_Yuzdesi, Pers_Tel, Pers_Cep, 
 Pers_Email, Cinsiyet_ID, Pers_Unvani, Pers_SGK_No, Pers_Aktif_Mi)
-VALUES ('Mustafa', 'Çoruh', '1.1.1962', 1, '01.06.2016', NULL, 'Uzun Sok. No 1', 'Kdz. Ereğli', 'Zonguldak', '67', 4500, 0, '3721111222','5371111222', 'mcoruh@mustafacoruh.com', 1, 'VTY', '22233344', 1),
+VALUES ('Mustafa', 'Çoruh', '1.1.1962', 1, '01.06.2016', NULL, 'Uzun Sok. No 1', 'Kdz. Ereğli', 'Zonguldak', '67', 4500, 0, '3721111222','5371111222', 'm@m.com', 1, 'VTY', '22233344', 1),
 ('Buğra', 'Diniz', '1.1.1998',3, '01.07.2016', NULL, 'Kısa Sok. No 2', 'Merkez', 'Bartın','74', 2750, 0.10, NULL, '5353333444', 'bdiniz@gmail.com', 1, 'Satış Elemanı', '66677788', 1),
 ('Burak', 'Oğuz', '1.1.1993', 2, '01.08.2016', NULL, 'Alt Sok. No 3', 'Beylikdüzü', 'İstanbul', '34', 3000, 0.12, NULL, '5371234567', 'boguz@gmail.com', 1, 'Pazarlamacı', '77788899', 1),
 ('Ayşe', 'Meliha', '1.1.1968', 6, '01.10.2016', NULL, 'Yukarı Sok No 4', 'Sincan', 'Ankara', '06', 3500, 0, NULL, '5361234567', 'ameliha@mustafacoruh.com', 2, 'Ofis Yöneticisi', '33344455', 1)
