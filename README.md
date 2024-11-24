@@ -1,1 +1,3 @@
-# Personel-Maa-lar-Takip-Program-
+# Personel-Maaslar-Takip-Program-
+
+Please open the READ ME.pdf file.
